@@ -8,9 +8,9 @@
 	$conexion = mysqli_connect($server, $usuario, $contraseña, $bd)
 		or die ("Error en la conexion");
 
-	$curso = $_POST['curso'];
+	$curso = $_POST['txtCurso'];
 
-	$insertar = "INSERT INTO curso values (NULL,'$curso',NULL)";
+	$insertar = "INSERT INTO curso values (NULL,'$curso')";
 
 	$resultado = mysqli_query($conexion,$insertar)
 		or die ("Error al insertar los registros");
