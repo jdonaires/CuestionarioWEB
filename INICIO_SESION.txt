@@ -1,0 +1,130 @@
+.Estilodecarcternormal
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 28px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal1
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 28px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.image5
+{
+  background-image : url(image5.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image
+{
+  background-image : url(image.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image3
+{
+  background-image : url(image3.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  opacity : 0.5;
+  filter: alpha(opacity=50) progid:DXImageTransform.Microsoft.Alpha(opacity=50) ;
+}
+.st0
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  border-radius : 0px;
+  -moz-border-radius : 0px;
+  -webkit-border-radius : 0px;
+}
+.image9
+{
+  background-image : url(image9.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image10
+{
+  background-image : url(image10.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image2
+{
+  background-image : url(image2.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image8
+{
+  background-image : url(image8.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image6
+{
+  background-image : url(image6.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image4
+{
+  background-image : url(image4.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  opacity : 0.46;
+  filter: alpha(opacity=46) progid:DXImageTransform.Microsoft.Alpha(opacity=46) ;
+}
+.image11
+{
+  background-image : url(image11.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image13
+{
+  background-image : url(image13.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image12
+{
+  background-image : url(image12.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image1
+{
+  background-image : url(image1.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.st1
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  border-radius : 0px;
+  -moz-border-radius : 0px;
+  -webkit-border-radius : 0px;
+}
+.image7
+{
+  background-image : url(image7.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.st2
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  opacity : 0.64;
+  border-radius : 0px;
+  -moz-border-radius : 0px;
+  -webkit-border-radius : 0px;
+  filter: alpha(opacity=64) progid:DXImageTransform.Microsoft.Alpha(opacity=64) ;
+}

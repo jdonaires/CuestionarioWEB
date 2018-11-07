@@ -1,0 +1,125 @@
+.Estilodecarcternormal6
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 22px;
+  color : #E6E6E6;
+  color : rgb(230, 230, 230);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal3
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 11px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal4
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 21px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal5
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 22px;
+  color : #E6E6E6;
+  color : rgb(230, 230, 230);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal2
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 11px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 37px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal1
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 21px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.st0
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+}
+.st1
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  border-radius : 0px;
+  -moz-border-radius : 0px;
+  -webkit-border-radius : 0px;
+}
+.image
+{
+  background-image : url(image.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image3
+{
+  background-image : url(image3.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.st2
+{
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 2px;
+}
+.image2
+{
+  background-image : url(image2.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image4
+{
+  background-image : url(image4.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image1
+{
+  background-image : url(image1.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.st3
+{
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 1px;
+  border-radius : 2px;
+  -moz-border-radius : 2px;
+  -webkit-border-radius : 2px;
+}
+.st4
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+}

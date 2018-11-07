@@ -1,0 +1,208 @@
+.Estilodecarcternormal7
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 24px;
+  color : #E6E6E6;
+  color : rgb(230, 230, 230);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal6
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 24px;
+  color : #E6E6E6;
+  color : rgb(230, 230, 230);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal3
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 24px;
+  color : #E6E6E6;
+  color : rgb(230, 230, 230);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal4
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 24px;
+  color : #E6E6E6;
+  color : rgb(230, 230, 230);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal5
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 24px;
+  color : #E6E6E6;
+  color : rgb(230, 230, 230);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal2
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 24px;
+  color : #E6E6E6;
+  color : rgb(230, 230, 230);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 24px;
+  color : #E6E6E6;
+  color : rgb(230, 230, 230);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal1
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 23px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.st0
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+}
+.st1
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+}
+.st2
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+}
+.st3
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+}
+.st4
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+}
+.st5
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+}
+.image5
+{
+  background-image : url(image5.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image
+{
+  background-image : url(image.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image3
+{
+  background-image : url(image3.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  opacity : 0.22;
+  filter: alpha(opacity=22) progid:DXImageTransform.Microsoft.Alpha(opacity=22) ;
+}
+.st6
+{
+  background : -moz-linear-gradient(11.41% 10.75% -39.94deg,rgba(255, 199, 0, 1) 1.7%,rgba(255, 199, 1, 1) 1.9%,rgba(255, 213, 67, 1) 18.35%,rgba(255, 226, 124, 1) 34.51%,rgba(255, 236, 171, 1) 49.98%,rgba(255, 244, 208, 1) 64.61%,rgba(255, 249, 234, 1) 78.22%,rgba(255, 253, 249, 1) 90.42%,rgba(255, 254, 255, 1) 100%);
+  background : -webkit-linear-gradient(-39.94deg, rgba(255, 199, 0, 1) 1.7%, rgba(255, 199, 1, 1) 1.9%, rgba(255, 213, 67, 1) 18.35%, rgba(255, 226, 124, 1) 34.51%, rgba(255, 236, 171, 1) 49.98%, rgba(255, 244, 208, 1) 64.61%, rgba(255, 249, 234, 1) 78.22%, rgba(255, 253, 249, 1) 90.42%, rgba(255, 254, 255, 1) 100%);
+  background : -webkit-gradient(linear,11.41% 10.75% ,95.36% 108.67% ,color-stop(0.017,rgba(255, 199, 0, 1) ),color-stop(0.019,rgba(255, 199, 1, 1) ),color-stop(0.1835,rgba(255, 213, 67, 1) ),color-stop(0.3451,rgba(255, 226, 124, 1) ),color-stop(0.4998,rgba(255, 236, 171, 1) ),color-stop(0.6461,rgba(255, 244, 208, 1) ),color-stop(0.7822,rgba(255, 249, 234, 1) ),color-stop(0.9042,rgba(255, 253, 249, 1) ),color-stop(1,rgba(255, 254, 255, 1) ));
+  background : -o-linear-gradient(-39.94deg, rgba(255, 199, 0, 1) 1.7%, rgba(255, 199, 1, 1) 1.9%, rgba(255, 213, 67, 1) 18.35%, rgba(255, 226, 124, 1) 34.51%, rgba(255, 236, 171, 1) 49.98%, rgba(255, 244, 208, 1) 64.61%, rgba(255, 249, 234, 1) 78.22%, rgba(255, 253, 249, 1) 90.42%, rgba(255, 254, 255, 1) 100%);
+  background : -ms-linear-gradient(-39.94deg, rgba(255, 199, 0, 1) 1.7%, rgba(255, 199, 1, 1) 1.9%, rgba(255, 213, 67, 1) 18.35%, rgba(255, 226, 124, 1) 34.51%, rgba(255, 236, 171, 1) 49.98%, rgba(255, 244, 208, 1) 64.61%, rgba(255, 249, 234, 1) 78.22%, rgba(255, 253, 249, 1) 90.42%, rgba(255, 254, 255, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFC700', endColorstr='#FFFEFF' ,GradientType=0)";
+  background : linear-gradient(129.94deg, rgba(255, 199, 0, 1) 1.7%, rgba(255, 199, 1, 1) 1.9%, rgba(255, 213, 67, 1) 18.35%, rgba(255, 226, 124, 1) 34.51%, rgba(255, 236, 171, 1) 49.98%, rgba(255, 244, 208, 1) 64.61%, rgba(255, 249, 234, 1) 78.22%, rgba(255, 253, 249, 1) 90.42%, rgba(255, 254, 255, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFC700',endColorstr='#FFFEFF' , GradientType=1);
+}
+.image9
+{
+  background-image : url(image9.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image10
+{
+  background-image : url(image10.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image2
+{
+  background-image : url(image2.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  opacity : 0.3;
+  filter: alpha(opacity=30) progid:DXImageTransform.Microsoft.Alpha(opacity=30) ;
+}
+.image8
+{
+  background-image : url(image8.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image6
+{
+  background-image : url(image6.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image4
+{
+  background-image : url(image4.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image11
+{
+  background-image : url(image11.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.image1
+{
+  background-image : url(image1.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.st7
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+}
+.image7
+{
+  background-image : url(image7.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+}
+.st8
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  border-radius : 0px;
+  -moz-border-radius : 0px;
+  -webkit-border-radius : 0px;
+}
