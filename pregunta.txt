@@ -1,0 +1,175 @@
+.image2
+{
+  background-image : url(image2.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : -425px;
+  top : -163px;
+  width : 1906px;
+  height : 1259px;
+}
+.image1
+{
+  background-image : url(image1.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 1194px;
+  top : 583px;
+  width : 136px;
+  height : 150px;
+}
+.st0
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 11px;
+  top : 13px;
+  width : 1344px;
+  height : 71px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st1
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 38px;
+  top : 104px;
+  width : 198px;
+  height : 77px;
+  border-radius : 0px;
+  -moz-border-radius : 0px;
+  -webkit-border-radius : 0px;
+}
+.image
+{
+  background-image : url(image.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 47px;
+  top : 111px;
+  width : 64px;
+  height : 64px;
+}
+.st2
+{
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 1px;
+  position : absolute ;
+  left : 277px;
+  top : 113px;
+  width : 1049px;
+  height : 60px;
+}
+.st3
+{
+  background : -moz-linear-gradient(-1.03% -68.15% -31.35deg,rgba(255, 223, 21, 1) 0%,rgba(234, 226, 19, 1) 13.17%,rgba(181, 234, 14, 1) 40.28%,rgba(97, 247, 5, 1) 78.62%,rgba(47, 255, 0, 1) 100%);
+  background : -webkit-linear-gradient(-31.35deg, rgba(255, 223, 21, 1) 0%, rgba(234, 226, 19, 1) 13.17%, rgba(181, 234, 14, 1) 40.28%, rgba(97, 247, 5, 1) 78.62%, rgba(47, 255, 0, 1) 100%);
+  background : -webkit-gradient(linear,-1.03% -68.15% ,99.83% 169.84% ,color-stop(0,rgba(255, 223, 21, 1) ),color-stop(0.1317,rgba(234, 226, 19, 1) ),color-stop(0.4028,rgba(181, 234, 14, 1) ),color-stop(0.7862,rgba(97, 247, 5, 1) ),color-stop(1,rgba(47, 255, 0, 1) ));
+  background : -o-linear-gradient(-31.35deg, rgba(255, 223, 21, 1) 0%, rgba(234, 226, 19, 1) 13.17%, rgba(181, 234, 14, 1) 40.28%, rgba(97, 247, 5, 1) 78.62%, rgba(47, 255, 0, 1) 100%);
+  background : -ms-linear-gradient(-31.35deg, rgba(255, 223, 21, 1) 0%, rgba(234, 226, 19, 1) 13.17%, rgba(181, 234, 14, 1) 40.28%, rgba(97, 247, 5, 1) 78.62%, rgba(47, 255, 0, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFDF15', endColorstr='#2FFF00' ,GradientType=0)";
+  background : linear-gradient(121.35deg, rgba(255, 223, 21, 1) 0%, rgba(234, 226, 19, 1) 13.17%, rgba(181, 234, 14, 1) 40.28%, rgba(97, 247, 5, 1) 78.62%, rgba(47, 255, 0, 1) 100%);
+  position : absolute ;
+  left : 277px;
+  top : 113px;
+  width : 232px;
+  height : 60px;
+  border-radius : 0px 6px 6px 0px;
+  -moz-border-radius : 0px 6px 6px 0px;
+  -webkit-border-radius : 0px 6px 6px 0px;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFDF15',endColorstr='#2FFF00' , GradientType=1);
+}
+.st4
+{
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 2px;
+  position : absolute ;
+  left : 437px;
+  top : 412px;
+  width : 46px;
+  height : 46px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st5
+{
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 2px;
+  position : absolute ;
+  left : 437px;
+  top : 483px;
+  width : 46px;
+  height : 46px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st6
+{
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 2px;
+  position : absolute ;
+  left : 437px;
+  top : 554px;
+  width : 46px;
+  height : 46px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.Estilodecarcternormal4
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 46px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal3
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 83px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal2
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 58px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal1
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 35px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 35px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
