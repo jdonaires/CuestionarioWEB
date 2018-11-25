@@ -8,7 +8,7 @@
 	$server="localhost";
 	$usuario="root";
 	$contraseña="";
-	$bd="cuestionario";
+	$bd="dbcurso";
 
 	$conexion = mysqli_connect($server, $usuario, $contraseña, $bd)
 		or die ("Error en la conexion");
