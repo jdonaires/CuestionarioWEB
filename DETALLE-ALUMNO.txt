@@ -1,0 +1,131 @@
+.Estilodecarcternormal
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 46px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.image7
+{
+  background-image : url(image7.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 381px;
+  top : 163px;
+  width : 258px;
+  height : 258px;
+}
+.image5
+{
+  background-image : url(image5.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 1070px;
+  top : 163px;
+  width : 258px;
+  height : 258px;
+}
+.image6
+{
+  background-image : url(image6.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 723px;
+  top : 156px;
+  width : 258px;
+  height : 258px;
+}
+.image4
+{
+  background-image : url(image4.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 39px;
+  top : 450px;
+  width : 259px;
+  height : 244px;
+}
+.image3
+{
+  background-image : url(image3.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 381px;
+  top : 450px;
+  width : 259px;
+  height : 244px;
+}
+.image2
+{
+  background-image : url(image2.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 723px;
+  top : 450px;
+  width : 259px;
+  height : 244px;
+}
+.image1
+{
+  background-image : url(image1.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 1069px;
+  top : 450px;
+  width : 259px;
+  height : 244px;
+}
+.image
+{
+  background-image : url(image.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 1221px;
+  top : 14px;
+  width : 130px;
+  height : 144px;
+}
+.st0
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 11px;
+  top : 12px;
+  width : 1189px;
+  height : 71px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.image8
+{
+  background-image : url(image8.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 40px;
+  top : 163px;
+  width : 258px;
+  height : 258px;
+}
+.image9
+{
+  background-image : url(image9.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : -425px;
+  top : -165px;
+  width : 1906px;
+  height : 1259px;
+}
