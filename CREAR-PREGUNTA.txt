@@ -1,0 +1,394 @@
+.Estilodecarcternormal5
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 29px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal3
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 29px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal2
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 29px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal1
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 29px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal4
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 29px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal6
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 29px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal12
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 42px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal9
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 41px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal10
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 41px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal8
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 64px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal7
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 29px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal11
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 42px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal14
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 42px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal13
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 42px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal15
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 42px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 17px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal16
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 46px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.st0
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 11px;
+  top : 12px;
+  width : 1343px;
+  height : 71px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st1
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 318px;
+  top : 156px;
+  width : 888px;
+  height : 45px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st2
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 318px;
+  top : 105px;
+  width : 888px;
+  height : 45px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st3
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 214px;
+  top : 396px;
+  width : 421px;
+  height : 45px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st4
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 214px;
+  top : 451px;
+  width : 421px;
+  height : 45px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st5
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 214px;
+  top : 506px;
+  width : 421px;
+  height : 45px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st6
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 100px;
+  top : 577px;
+  width : 266px;
+  height : 59px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st7
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 286px;
+  top : 671px;
+  width : 266px;
+  height : 59px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.image5
+{
+  background-image : url(image5.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : -425px;
+  top : -165px;
+  width : 1906px;
+  height : 1259px;
+}
+.st8
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 652px;
+  top : 671px;
+  width : 266px;
+  height : 59px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st9
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 466px;
+  top : 577px;
+  width : 266px;
+  height : 59px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st10
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 832px;
+  top : 577px;
+  width : 266px;
+  height : 59px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st11
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 831px;
+  top : 450px;
+  width : 421px;
+  height : 45px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st12
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 831px;
+  top : 395px;
+  width : 421px;
+  height : 45px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.image4
+{
+  background-image : url(image4.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 1194px;
+  top : 583px;
+  width : 145px;
+  height : 160px;
+}
+.image3
+{
+  background-image : url(image3.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 1213px;
+  top : 517px;
+  width : 28px;
+  height : 28px;
+}
+.image2
+{
+  background-image : url(image2.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 447px;
+  top : 686px;
+  width : 28px;
+  height : 28px;
+}
+.image1
+{
+  background-image : url(image1.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 822px;
+  top : 686px;
+  width : 28px;
+  height : 28px;
+}
+.st13
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 702px;
+  top : 507px;
+  width : 551px;
+  height : 45px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.image
+{
+  background-image : url(image.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 566px;
+  top : 220px;
+  width : 233px;
+  height : 84px;
+}
+.st14
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 1210px;
+  top : 156px;
+  width : 49px;
+  height : 44px;
+}
