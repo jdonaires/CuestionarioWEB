@@ -1,0 +1,570 @@
+.Estilodecarcternormal5
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 18px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal3
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 25px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal2
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 22px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal1
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 46px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal4
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 25px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal6
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 46px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal12
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 25px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal9
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 25px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal10
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 25px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal8
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 25px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal7
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 25px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal11
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 25px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal14
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 16px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal13
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 25px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal15
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 16px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 20px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal20
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 21px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal21
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 21px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal19
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 21px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal22
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 39px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal23
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 39px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal16
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 16px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal18
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 21px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal17
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 16px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal24
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 39px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal25
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 21px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal26
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 21px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal27
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 21px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+  opacity : 0.32;
+  filter: alpha(opacity=32) progid:DXImageTransform.Microsoft.Alpha(opacity=32) ;
+}
+.Estilodecarcternormal28
+{
+  font-family : Bebas Neue;
+  font-weight : bold;
+  font-size : 21px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.image7
+{
+  background-image : url(image7.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : -425px;
+  top : -164px;
+  width : 1906px;
+  height : 1259px;
+}
+.st0
+{
+  border-style : Solid;
+  border-color : #CCCCCC;
+  border-color : rgba(204, 204, 204, 1);
+  border-width : 1px;
+  position : absolute ;
+  left : 113px;
+  top : 147px;
+  width : 240px;
+  height : 29px;
+  border-radius : 5px;
+  -moz-border-radius : 5px;
+  -webkit-border-radius : 5px;
+}
+.st1
+{
+  border-style : Solid;
+  border-color : #CCCCCC;
+  border-color : rgba(204, 204, 204, 1);
+  border-width : 1px;
+  position : absolute ;
+  left : 510px;
+  top : 156px;
+  width : 511px;
+  height : 29px;
+  border-radius : 5px;
+  -moz-border-radius : 5px;
+  -webkit-border-radius : 5px;
+}
+.st2
+{
+  border-style : Solid;
+  border-color : #CCCCCC;
+  border-color : rgba(204, 204, 204, 1);
+  border-width : 1px;
+  position : absolute ;
+  left : 510px;
+  top : 199px;
+  width : 511px;
+  height : 29px;
+  border-radius : 5px;
+  -moz-border-radius : 5px;
+  -webkit-border-radius : 5px;
+}
+.st3
+{
+  border-style : Solid;
+  border-color : #CCCCCC;
+  border-color : rgba(204, 204, 204, 1);
+  border-width : 1px;
+  position : absolute ;
+  left : 511px;
+  top : 241px;
+  width : 510px;
+  height : 29px;
+  border-radius : 5px;
+  -moz-border-radius : 5px;
+  -webkit-border-radius : 5px;
+}
+.st4
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+  position : absolute ;
+  left : 510px;
+  top : 500px;
+  width : 511px;
+  height : 48px;
+  border-radius : 5px;
+  -moz-border-radius : 5px;
+  -webkit-border-radius : 5px;
+}
+.st5
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+  position : absolute ;
+  left : 510px;
+  top : 591px;
+  width : 511px;
+  height : 102px;
+  border-radius : 5px;
+  -moz-border-radius : 5px;
+  -webkit-border-radius : 5px;
+}
+.st6
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 1076px;
+  top : 196px;
+  width : 264px;
+  height : 76px;
+  border-radius : 0px;
+  -moz-border-radius : 0px;
+  -webkit-border-radius : 0px;
+}
+.st7
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 1076px;
+  top : 288px;
+  width : 264px;
+  height : 76px;
+  border-radius : 0px;
+  -moz-border-radius : 0px;
+  -webkit-border-radius : 0px;
+}
+.st8
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+  position : absolute ;
+  left : 510px;
+  top : 311px;
+  width : 511px;
+  height : 72px;
+  border-radius : 5px;
+  -moz-border-radius : 5px;
+  -webkit-border-radius : 5px;
+}
+.st9
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 1075px;
+  top : 103px;
+  width : 267px;
+  height : 77px;
+  border-radius : 0px;
+  -moz-border-radius : 0px;
+  -webkit-border-radius : 0px;
+}
+.image5
+{
+  background-image : url(image5.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 1205px;
+  top : 593px;
+  width : 136px;
+  height : 150px;
+}
+.image6
+{
+  background-image : url(image6.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 109px;
+  top : 196px;
+  width : 248px;
+  height : 248px;
+}
+.st10
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 1px;
+  position : absolute ;
+  left : 52px;
+  top : 562px;
+  width : 364px;
+  height : 68px;
+}
+.st11
+{
+  border-style : Solid;
+  border-color : #CCCCCC;
+  border-color : rgba(204, 204, 204, 1);
+  border-width : 1px;
+  position : absolute ;
+  left : 159px;
+  top : 599px;
+  width : 153px;
+  height : 10px;
+}
+.st12
+{
+  background : -moz-linear-gradient(-1.06% -67.21% -31.35deg,rgba(146, 255, 106, 1) 0%,rgba(185, 255, 170, 1) 24.37%,rgba(90, 255, 46, 1) 51.01%,rgba(185, 255, 170, 1) 76.13%,rgba(47, 255, 0, 1) 100%);
+  background : -webkit-linear-gradient(-31.35deg, rgba(146, 255, 106, 1) 0%, rgba(185, 255, 170, 1) 24.37%, rgba(90, 255, 46, 1) 51.01%, rgba(185, 255, 170, 1) 76.13%, rgba(47, 255, 0, 1) 100%);
+  background : -webkit-gradient(linear,-1.06% -67.21% ,101.23% 167.62% ,color-stop(0,rgba(146, 255, 106, 1) ),color-stop(0.2437,rgba(185, 255, 170, 1) ),color-stop(0.5101,rgba(90, 255, 46, 1) ),color-stop(0.7613,rgba(185, 255, 170, 1) ),color-stop(1,rgba(47, 255, 0, 1) ));
+  background : -o-linear-gradient(-31.35deg, rgba(146, 255, 106, 1) 0%, rgba(185, 255, 170, 1) 24.37%, rgba(90, 255, 46, 1) 51.01%, rgba(185, 255, 170, 1) 76.13%, rgba(47, 255, 0, 1) 100%);
+  background : -ms-linear-gradient(-31.35deg, rgba(146, 255, 106, 1) 0%, rgba(185, 255, 170, 1) 24.37%, rgba(90, 255, 46, 1) 51.01%, rgba(185, 255, 170, 1) 76.13%, rgba(47, 255, 0, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#92FF6A', endColorstr='#2FFF00' ,GradientType=0)";
+  background : linear-gradient(121.35deg, rgba(146, 255, 106, 1) 0%, rgba(185, 255, 170, 1) 24.37%, rgba(90, 255, 46, 1) 51.01%, rgba(185, 255, 170, 1) 76.13%, rgba(47, 255, 0, 1) 100%);
+  position : absolute ;
+  left : 159px;
+  top : 600px;
+  width : 33px;
+  height : 9px;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#92FF6A',endColorstr='#2FFF00' , GradientType=1);
+}
+.XMLID_1_
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+  position : absolute ;
+  left : 51px;
+  top : 662px;
+  width : 365px;
+  height : 68px;
+}
+.st13
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 11px;
+  top : 12px;
+  width : 1344px;
+  height : 71px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.st14
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+  position : absolute ;
+  left : 510px;
+  top : 399px;
+  width : 511px;
+  height : 72px;
+  border-radius : 5px;
+  -moz-border-radius : 5px;
+  -webkit-border-radius : 5px;
+}
+.image4
+{
+  background-image : url(image4.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 698px;
+  top : 646px;
+  width : 58px;
+  height : 31px;
+}
+.image3
+{
+  background-image : url(image3.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 154px;
+  top : 476px;
+  width : 35px;
+  height : 62px;
+}
+.image2
+{
+  background-image : url(image2.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 82px;
+  top : 667px;
+  width : 34px;
+  height : 60px;
+}
+.image1
+{
+  background-image : url(image1.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 221px;
+  top : 476px;
+  width : 35px;
+  height : 62px;
+}
+.st15
+{
+  border-style : Solid;
+  border-color : #FFC700;
+  border-color : rgba(255, 199, 0, 1);
+  border-width : 1px;
+  position : absolute ;
+  left : 1078px;
+  top : 379px;
+  width : 264px;
+  height : 199px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.image
+{
+  background-image : url(image.png);
+  /*Para crear una imagen a la que se haga referencia en CSS, utilice el comando \'Exportar CSS seleccionado\'.*/
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 286px;
+  top : 476px;
+  width : 35px;
+  height : 62px;
+}
+.st16
+{
+  background : #FFC700;
+  background : rgba(255, 199, 0, 1);
+  position : absolute ;
+  left : 1081px;
+  top : 383px;
+  width : 257px;
+  height : 26px;
+  border-radius : 10px 9px 10px 10px;
+  -moz-border-radius : 10px 9px 10px 10px;
+  -webkit-border-radius : 10px 9px 10px 10px;
+}
