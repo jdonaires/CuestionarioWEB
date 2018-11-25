@@ -3,15 +3,14 @@
 	$server="localhost";
 	$usuario="root";
 	$contraseña="";
-	$bd="cuestionario";
+	$bd="dbcurso";
 
 	$conexion = mysqli_connect($server, $usuario, $contraseña, $bd)
 		or die ("Error en la conexion");
 
 	$curso = $_POST['txtCurso'];
-	$descripcion = $_POST['txtDescripcion'];
 
-	$insertar = "INSERT INTO curso values (NULL,'$curso','$descripcion')";
+	$insertar = "INSERT INTO curso values (NULL,'$curso')";
 
 	$resultado = mysqli_query($conexion,$insertar)
 		or die ("Error al insertar los registros");
@@ -22,11 +21,10 @@
 <head>
 	<title>Formulario</title>
 	<style>
-	body{background-color: #7099F6; box-sizing: border-box; font-family: Arial;}
+	body{background-color: #264673; box-sizing: border-box; font-family: Arial;}
 
 	form{
-
-		background: rgba(0,0,0,.5);
+		background-color: white;
 		padding: 10px;
 		margin: 30px auto;
 		width: 400px;
@@ -35,23 +33,16 @@
 	 input[type=text], input[type=password]{
 	 	padding: 10px;
 	 	width: 380px;
-	 	background: rgba(0,0,0,.5);
 	 }
-
-	 input[name=txtDescripcion]{
-	 	padding: 30px;
-	 	width: 340px;
-	 }
-
 
 	 input[type="submit"]{
 	 	border:0;
-	 	background-color: #D4AC0D;
+	 	background-color: #ED8824;
 	 	padding: 10px 20px; 
 	 }
 
 	 .error{
-	 	background-color: #FF9184;
+	 	background-color: #FF9185;
 	 	font-size: 12px;
 	 	padding: 10px; 
 	 }
@@ -65,13 +56,14 @@
 </head>
 <body>
 	<form action= "Formulario.php" method= "POST">
+		
 		<?php
 		if(isset($_POST['txtCurso'])){
 			$curso = $_POST['txtCurso'];
 			$campos= array();
 
 			if($curso == ""){
-				array_push($campos, "<b>El campo curso no puede estar vacio</b>");
+				array_push($campos, "El campo no puede estar vacio");
 			}
 			if(count($campos) > 0){
 				echo "<div class ='error'>";
@@ -80,21 +72,19 @@
 				}
 			}else{
 				echo "<div class ='correcto'>
-				<b>Datos correctos</b>";
+				Datos correctos";
 			}
 			echo "</div>";
 		}
 		?>
 		<br> </br>
-		<b>Curso: </b>  <input type="text" name="txtCurso" placeholder="Insertar curso"> <br/><br/>
-		<b> Descripción del curso: </b> <input type="text" name="txtDescripcion"> <br/><br/>
+		Curso: <input type="text" name="txtCurso" placeholder="Insertar curso"> <br/><br/>
 		<input type= "submit" value= "Guardar" name="btnGuardar">
-
 	</form>
 	<br/>
 	<form action= "Eliminar.php" method= "POST">
-		<b> Eliminar Curso: </b> <input type="text" name="txtCurso" placeholder="Insertar curso a eliminar"> <br/><br/>
-		<input type= "submit" value= "Eliminar" name="btnEliminar"> 
+		Eliminar Curso: <input type="text" name="txtCurso" placeholder="Insertar curso a eliminar"> <br/><br/>
+		<input type= "submit" value= "Eliminar" name="btnEliminar">
 	</form>
 	<br/>
 	<form action= "Consultar.php" method= "POST">
